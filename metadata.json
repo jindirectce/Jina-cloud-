@@ -1,0 +1,5 @@
+{
+  "name": "AudioNews Summary",
+  "description": "Create personalized audio summaries of news articles for your commute.",
+  "requestFramePermissions": []
+}
